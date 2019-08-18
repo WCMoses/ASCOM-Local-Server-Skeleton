@@ -1,0 +1,1 @@
+ASCOM-Local-Server-Skeleton
