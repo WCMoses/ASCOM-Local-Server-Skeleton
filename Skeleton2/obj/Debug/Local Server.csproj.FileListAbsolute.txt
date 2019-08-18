@@ -1,0 +1,17 @@
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.Skeleton2.Server.exe.config
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.Skeleton2.Server.exe
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.Skeleton2.Server.pdb
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.Attributes.dll
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.Exceptions.dll
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.Utilities.dll
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.Attributes.xml
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.Exceptions.xml
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\bin\Debug\ASCOM.Utilities.xml
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\obj\Debug\ASCOM.Skeleton2.frmMain.resources
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\obj\Debug\Local Server.csproj.GenerateResource.cache
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\obj\Debug\Local Server.csproj.CoreCompileInputs.cache
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\obj\Debug\Local Server.csproj.CopyComplete
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\obj\Debug\ASCOM.Skeleton2.Server.exe
+C:\TestDev\Skeleton2\Local Server Skeleton 2\Skeleton2\obj\Debug\ASCOM.Skeleton2.Server.pdb
